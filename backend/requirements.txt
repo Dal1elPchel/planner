@@ -1,0 +1,6 @@
+aiogram
+fastapi
+uvicorn
+python-dotenv
+aiosqlite
+httpx
